@@ -3,6 +3,8 @@
 * http://stackoverflow.com/questions/50499
 * http://stackoverflow.com/questions/595305
 * https://duckduckgo.com/?q=python+__file__
+* https://duckduckgo.com/?q=ruby+__file__
+* https://duckduckgo.com/?q=perl+__file__
 * https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58
 
 ### cco112
