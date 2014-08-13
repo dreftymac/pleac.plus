@@ -1,3 +1,9 @@
+### cco59
+
+* http://stackoverflow.com/questions/595305
+* https://duckduckgo.com/?q=python+__file__
+* https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58
+
 ### cco112
 
 * https://duckduckgo.com/?q=mkdir+p+java
