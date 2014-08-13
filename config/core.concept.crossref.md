@@ -5,7 +5,7 @@
 * https://duckduckgo.com/?q=python+__file__
 * https://duckduckgo.com/?q=ruby+__file__
 * https://duckduckgo.com/?q=perl+__file__
-* https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58-59
+* https://github.com/dreftymac/pleac.plus/blob/master/config/core.concepts.csv#L58-59,112
 
 ### cco112
 
