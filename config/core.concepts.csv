@@ -365,3 +365,4 @@ cco364  , core_concept.text.operations                  ,   core_txtop.str_fromf
 cco365  , core_concept.text.operations                  ,   core_txtop.str_tofile          ,   spit out an entire string to a single text file                                                                                
 cco366  , core_concept.text.operations                  ,   core_txtop.str_tofile_unicode          ,   string to text file unicode                                                                                
 cco367  , core_concept.text.operations                  ,   core_txtop.str_tofile_unicode_bom      ,   string to text file unicode BOM
+cco368  , regular.expressions      ,   regex.namedcapture              ,    specify names with regex capture groups                                                                              
