@@ -1,8 +1,7 @@
 # pleac.plus
 
+> inspired by PLEAC -- a spinoff of the Perl Cookbook
 
-inspired by PLEAC a spinoff of the Perl Cookbook
-
-## links
+## See also
 
 * https://duckduckgo.com/?q=anylang+pleac
